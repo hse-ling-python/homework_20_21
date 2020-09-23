@@ -107,7 +107,8 @@ m = Mystem(mystem_bin="D:\\mystem.exe")
 **Ссылки на GiHub Classroom:**
 
 <table>
-    <tr><td>Группы 1 и 2</td><td>ссылка</td></tr>
-    <tr><td>Группа 3</td><td>ссылка</td></tr>    
-    <tr><td>Группа 4</td><td>ссылка</td></tr>    
+    <tr><td>Группы 1</td><td><a href="https://classroom.github.com/a/B7pSzBmB">ссылка</a></td></tr>
+    <tr><td>Группы 2</td><td><a href="https://classroom.github.com/a/aE7FumSB">ссылка</a></td></td></tr>
+    <tr><td>Группа 3</td><td><a href="https://classroom.github.com/a/A-8rESk2">ссылка</a></td></td></tr>    
+    <tr><td>Группа 4</td><td><a href="https://classroom.github.com/a/f0_2vz4D">ссылка</a></td></td></tr>    
 </table>
