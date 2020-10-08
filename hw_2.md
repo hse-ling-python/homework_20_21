@@ -52,7 +52,7 @@
 
 |Группа|                    Ссылка                     |
 |:----:|:---------------------------------------------:|
-|191   |[клик](https://classroom.github.com/a/B7pSzBmB)|
-|192   |[клац](https://classroom.github.com/a/aE7FumSB)|
-|193   |[тынц](https://classroom.github.com/a/A-8rESk2)|
-|194   |[жмяк](https://classroom.github.com/a/f0_2vz4D)|
+|191   |[ссылка](https://classroom.github.com/a/r-dTtQ4B)|
+|192   |[ссылка](https://classroom.github.com/a/1eK7ddwa)|
+|193   |[ссылка](https://classroom.github.com/a/xuMLjae1)|
+|194   |[ссылка](https://classroom.github.com/a/m10G_VfF)|
