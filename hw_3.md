@@ -61,8 +61,10 @@
 
 **Ссылки на GiHub Classroom:**
 
-Группа 1 и 2 -- [ссылка](https://classroom.github.com/a/rd2bmPQJ)
+Группа 1 -- [ссылка](https://classroom.github.com/a/OFzWcFpM)
 
-Группа 3 -- [ссылка](https://classroom.github.com/a/N6sDKREx)
+Группа 2 -- [ссылка](https://classroom.github.com/a/erTeQ4QS)
 
-Группа 4 -- [ссылка](https://classroom.github.com/a/l64O6GUR) 
+Группа 3 -- [ссылка](https://classroom.github.com/a/MbRfVEYo)
+
+Группа 4 -- [ссылка](https://classroom.github.com/a/h6Pdn27G) 
