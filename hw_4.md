@@ -43,3 +43,9 @@
 (например, draw.io), но можно и на бумажке, если совсем не получится.
 
 3 балла.
+
+
+[191](https://classroom.github.com/a/KNqOLJsS)
+[192](https://classroom.github.com/a/BxaTo20v)
+[193](https://classroom.github.com/a/UWKoKIJw)
+[194](https://classroom.github.com/a/slPynizc)
