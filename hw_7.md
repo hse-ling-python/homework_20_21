@@ -68,3 +68,11 @@
 
 
 **Ссылки на GiHub Classroom:**
+
+[191](https://classroom.github.com/a/Xwk7YYhH)
+
+[192](https://classroom.github.com/a/VVL_C6cj)
+
+[193](https://classroom.github.com/a/j_CAj6CT)
+
+[194](https://classroom.github.com/a/RT6dl27T)
