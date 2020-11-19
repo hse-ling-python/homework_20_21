@@ -23,4 +23,12 @@
 - Пример с base.html и подключением bootstrap можно посмотреть [тут](https://github.com/hse-ling-python/seminars/tree/master/flask_applications/imdb_site/templates)
 
 
-**Ссылки**
+**Ссылки на GiHub Classroom:**
+
+[191](https://classroom.github.com/a/WJlhg4G7)
+
+[192](https://classroom.github.com/a/l3zIHzpw)
+
+[193](https://classroom.github.com/a/8L0eoCdK)
+
+[194](https://classroom.github.com/a/0Kda7vfN)
