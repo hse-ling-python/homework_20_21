@@ -35,11 +35,13 @@
 - **22 июня, 23:59 -- дедлайн сдачи кода и описания проекта**
 - ссылки (пока не работают):
 
-191 и 192
+[191](https://classroom.github.com/a/wp7ITSA0)
 
-193
+[192](https://classroom.github.com/a/1eFylr_o)
 
-194
+[193](https://classroom.github.com/a/QJnE9Hpn)
+
+[194](https://classroom.github.com/a/jSGa9maD)
 
 - **24 июня -- презентации проектов на парах**: 191 -- 11.10 (в зуме); 192 -- 9.30 (в зуме)
 
